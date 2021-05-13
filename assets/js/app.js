@@ -1,5 +1,7 @@
 $(document).ready(function(){
 
+    $('[data-toggle="popover"]').popover()
+
     $("a").on('click', function(event) {
       if (this.hash !== "") {
         event.preventDefault();
