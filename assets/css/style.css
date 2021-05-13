@@ -4,6 +4,11 @@ body    {
     text-align: center;
 }
 
+header nav img  {
+    height: 45px ;
+    width: 35px ;
+    padding-right: 5px;
+}
 .linea {
     border-top: 1px solid #5bc0de;
     height: 2px;
