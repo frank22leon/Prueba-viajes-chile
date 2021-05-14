@@ -9,6 +9,7 @@ header nav img  {
     width: 35px ;
     padding-right: 5px;
 }
+
 .linea {
     border-top: 1px solid #5bc0de;
     height: 2px;
@@ -25,4 +26,3 @@ header nav img  {
 footer  {
     background-color:#5bc0de;
 }
-
